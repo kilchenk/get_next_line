@@ -66,3 +66,7 @@ For more check the [subject](subject.pdf)
     1 if a line has been read.
     0 if the end of file has been reached.
     -1 if an error occurred.
+    
+---
+Made by kilchenk: kilchenk@student.42wolfsburg.de | LinkedIn: [kilchenk](https://www.linkedin.com/in/kyrylo-ilchenko/)
+
